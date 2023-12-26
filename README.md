@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 <h3 align="center">A passionate MERN-Stack developer</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47h2oj8zs8ltwcwqmznytkemdk8lam5j3afrce9g90&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="550" src="https://media1.giphy.com/media/qfLUF9PuBV9SRZKJcv/giphy.gif?cid=ecf05e472pqj6ext45wmmz9282qhhxog8lc7g2s45txmmnbv&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi-alt&label=Profile%20views&color=0e75b6&style=flat" alt="adi-alt" /> </p>
