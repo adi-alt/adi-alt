@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1UmivRQiHGhnJ04vQv39O-xK1c3A5kp_f/view?usp=sharing)
 
-- ⚡ Fun fact **I love to play piano 🎹 and travel 🧳**
+- ⚡ Interesting fact - **I love to play piano 🎹 and travel 🧳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
